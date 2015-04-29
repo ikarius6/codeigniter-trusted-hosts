@@ -44,4 +44,4 @@ With codeigniter-trusted-hosts will show:
 ```
 http://localhost/my_secret/12345
 ```
-*sorry hacker, not today*
+**sorry hacker, not today**
