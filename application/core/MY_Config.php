@@ -38,6 +38,7 @@ class MY_Config extends CI_Config{
 				}
 				else
 				{
+					$_SERVER['HTTP_HOST'] = "localhost";
 					$base_url = 'http://localhost/';
 				}
 			}
